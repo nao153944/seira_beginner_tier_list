@@ -1,0 +1,24 @@
+table
+{
+    border-collapse: collapse;
+    background-color: cadetblue;
+}
+
+th
+{
+    font-size: 25px;
+    padding: 30px;
+    border: 1px solid #333;
+}
+
+
+td
+{
+    border: 1px solid #333;
+}
+
+
+.fin
+{
+    text-decoration: line-through;
+}
